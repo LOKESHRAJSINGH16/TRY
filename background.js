@@ -1,5 +1,5 @@
 
-
+//this is background.js
 chrome.runtime.onMessage.addListener(receiver);
 
 window.word = "";
